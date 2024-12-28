@@ -143,8 +143,8 @@ with logfire.span("execute_query"):
 
 ## Resources
 
-- [PydanticAI Documentation](https://docs.pydantic.dev/latest/integrations/ai/)
-- [Logfire Documentation](https://logfire.sh/docs)
+- [PydanticAI Documentation](https://ai.pydantic.dev/)
+- [Pydantic Logfire Documentation](https://github.com/pydantic/logfire)
 - [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service)
 - [Google Vertex AI](https://cloud.google.com/vertex-ai)
 
