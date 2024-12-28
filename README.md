@@ -3,10 +3,10 @@
 # Multi-Cloud Agent 🌥️🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![Python Version](https://img.shields.io/badge/Python-3.13.1-blue.svg)](https://www.python.org/downloads/release/python-3130/)
 [![PydanticAI](https://img.shields.io/badge/PydanticAI-0.0.15-orange.svg)](https://docs.pydantic.dev/latest/integrations/ai/)
 [![Logfire](https://img.shields.io/badge/Logfire-0.8.0-red.svg)](https://logfire.sh/)
-[![uv](https://img.shields.io/badge/uv-0.1.0-darkgreen.svg)](https://docs.astral.sh/uv/)
+[![uv](https://img.shields.io/badge/uv-0.5.1-darkgreen.svg)](https://docs.astral.sh/uv/)
 
 > Multi-cloud database operations with integrated observability and AI query processing.
 
